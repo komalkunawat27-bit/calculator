@@ -45,8 +45,11 @@ body {
     border-radius: 10px;
     margin-bottom: 15px;
     text-align: right;
-    font-size: x-large;
+    font-size:xxx-large;
     justify-content: flex-end;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: right;
 }
 
 /* Operations */
